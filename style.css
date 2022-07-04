@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    align-items: center;
+    gap: 5em;
+    
+}
+.cards__row {
+    display: flex;
+    align-items: center;
+    gap:5px;
+    padding: 50px;
+
+    
+
+}
+.card {
+}
+.container {
+    width: 100%;
+    max-width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.card__picture {
+
+}
+.card__input {
+    width: 100%;
+   
+    
+
+}
+.card__btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+    
